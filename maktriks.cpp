@@ -7,16 +7,12 @@ main()
 {
 	
 
-	cout<<"\n___________________________KELOMPOK KAMI TERDIRI DARI : _______________________"<<endl;
-	cout<<"\n============NAMA=======================NIM=======================KELAS========="<<endl;
-   	cout<<"NITA SEPTIANI                        12173222                   12.1D.31"<<endl;
-	cout<<"DWI BAGUS RIO KARDO SURBAKTI         12170382                   12.1D.31"<<endl;
-	cout<<"DANI RAMDANI                         12170497                   12.1D.31"<<endl;
-	cout<<"AGUNG LASKONO PUTRO                  12170201                   12.1D.31"<<endl;
-   	cout<<"RUSLAN EFENDI                        12170007                   12.1D.31"<<endl;
-   	cout<<"ILMAN ROSIDA IRAWAN                  12173342                   12.1D.31"<<endl;
+	cout<<"\n___________________________MATRIX : _______________________"<<endl;
+
+	cout<<"DWI BAGUS RIO KARDO SURBAKTI"<<endl;
+
 	
-cout<<"\n=================================================================================="<<endl;
+cout<<"\n==============================================================="<<endl;
 
 int a,b; 
 int matrix1[2][2]; 
